@@ -1,0 +1,932 @@
+@media all and (min-width:1701px) {
+	.iq-image-block img {
+		height: 640px;
+		max-height: 100%;
+	} 
+}
+
+
+
+@media screen and (max-width: 1800px) {
+
+.logo_mains {
+	max-height: 60px;
+}
+
+.logo_subtitles {
+	font-size: 18px;
+}
+
+.section-header-iq h2 {
+	font-size: 35px;
+}   
+.iq-multistep-wizard {
+    min-height: 690px;
+    max-height: 690px;
+}  
+}
+@media only screen and (max-width: 1700px) {
+	.form-group-button .common-button {
+		height: 50px;
+	} 
+	.section-header-iq h3 {
+		font-size: 26px;
+	}
+	.iq-multistep-wizard .actions ul a,
+	.iq-multistep-wizard .actions ul button {
+		height: 50px;
+	}
+	/******/
+	.iq-multistep-wizard {
+		min-height: 600px;
+		max-height: 600px;
+	}
+	.section-content {
+		max-height: 340px;
+		min-height: 340px;
+	}
+
+	.steps_div {
+		min-height: 535px;
+		max-height: 535px;
+	}
+	.iq-image-block img {
+		max-height: 535px;
+	}
+}
+
+
+
+@media all and (min-width:1700px) {
+	.section-header-iq h4.sub-heading {
+		font-size: 26px;
+		line-height: 34px;
+	}
+
+	.iq-multistep-wizard .needsanalyze-image-block img {
+		max-height: 100% !important;
+	}
+
+
+	.radio.selection label {
+		line-height: 25px !important;
+	}
+}
+
+@media all and (min-width:1580px) {
+
+	.investment-table tbody td,
+	.investment-table thead th {
+		padding: 13px;
+	}
+
+}
+
+@media all and (min-width:1400px) {
+	.iq-multistep-wizard .needsanalyze-image-block img {
+		max-height: 500px;
+	}
+
+}
+
+
+@media screen and (max-width: 1600px) {
+
+
+
+	.iq-multistep-wizard {
+		min-height: 540px;
+		max-height: 540px;
+	}
+
+	.section-content {
+		max-height: 320px;
+		min-height: 320px;
+	}
+	a.btn.cstm_close {
+		height: 50px;
+		font-size: 18px;
+	}
+	.steps_div {
+		min-height: 475px;
+		max-height: 475px;
+	}
+
+	.iq-image-block img {
+		max-height: 475px;
+	}
+
+	.draw-signature label,
+	.chose-signature label {
+		font-size: 12px;
+	}
+
+	.iq-multistep-wizard .actions ul a,
+	.iq-multistep-wizard .actions ul button {
+		height: 50px;
+		font-size: 18px;
+	}
+
+
+	span.mfs-message {
+		font-size: 16px;
+	}
+
+	.logo_mains {
+		max-height: 55px;
+	}
+
+	.section-header-iq h3 {
+		font-size: 24px;
+	}
+
+	.section-logo-header {
+		padding: 0px 30px 15px 30px;
+	}
+
+	.needsanalyze-image-block img {
+		max-height: 400px;
+		min-height: 400px;
+	}
+
+	.here_help_sec {
+		margin: 20px 0 0;
+	}
+
+	p.detail_sctdr {
+		margin-bottom: 0;
+	}
+
+	.file_upload {
+		height: 45px;
+		font-size: 14px;
+		min-width: 160px;
+		padding: 0 10px;
+	}
+
+	.thankyou_upload a.mfs_download {
+		font-size: 14px;
+	}
+
+	img.custom-upload {
+		height: 26px;
+	}
+
+	.here_help_sec h3 {
+		font-size: 24px;
+	}
+
+	/*.sin-img-div a .sin-img {
+    max-width: 125px;
+}*/
+	.sin-img-div a {
+		width: 255px;
+		height: 45px;
+	}
+	.input-name input[type="text"] {
+		height: 45px;
+		width: 255px;
+		margin-bottom: 15px;
+	}
+
+	.singnature-btns input[type="file"] {
+		height: 45px;
+		font-size: 16px;
+		padding: 7px 7px;
+		min-height: 45px;
+		min-width: 250px;
+	}
+
+	.draw-signature input[type="radio"],
+	.chose-signature input[type="radio"] {
+		min-width: 16px;
+		min-height: 16px;
+	}
+
+	.form-group.radio-years {
+		margin: 10px 0 0 0;
+	}
+
+	.form_discrip_text {
+		min-height: 160px;
+	}
+
+	.section-header-iq h4.sub-heading {
+		font-size: 18px;
+	}
+
+	.investment-horizon-box h4 {
+		margin-bottom: 5px;
+	}
+
+	.radio-check {
+		gap: 6px 0;
+	}
+	.form-discription p {
+		font-size: 17px;
+	}
+}
+
+@media all and (min-width:1440px) {
+
+
+	span.dollar-sign-text {
+		font-size: 18px;
+		font-weight: 600;
+		position: absolute;
+		line-height: 0px;
+		top: 46%;
+		transform: translateY(-50%);
+	}
+
+	input#shortfall_funds_view {
+		padding-left: 18px !important;
+	}
+
+	.iq-content-block input[type="number"],
+	.iq-content-block input[type="text"]:not(.index-main .iq-content-block input[type="text"]) {
+		padding-bottom: 2px !important;
+		line-height: 18px;
+	}
+
+	input#shortfall_funds_view {
+		padding-bottom: 0;
+	}
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 1440px) {
+
+	.iq-multistep-wizard {
+		min-height: 480px;
+		max-height: 480px;
+	}
+
+	.steps_div {
+		min-height: 430px;
+		max-height: 430px;
+	}
+
+	.iq-image-block img {
+		max-height: 430px;
+	}
+
+	.section-content {
+		max-height: 290px;
+		min-height: 280px;
+	}
+
+	.iq_main_sect label.label-heading {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.iq-multistep-wizard .needsanalyze-image-block img {
+		max-height: 450px;
+	}
+
+	.investment-horizon-box h4 {
+		font-size: 14px;
+	}
+
+	.investment-horizon-box p {
+		font-size: 14px;
+	}
+	.scoring-text p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	input#upload_signature {
+		font-size: 14px;
+		min-height: 34px;
+		padding: 4.3px 6px;
+		height: 40px;
+	}
+
+	span.dollar-sign-text {
+		font-size: 14px;
+		font-weight: 600;
+		position: absolute;
+		line-height: 0px;
+		top: 46%;
+		transform: translateY(-50%);
+	}
+
+	input#shortfall_funds_view {
+		padding-left: 13px !important;
+		padding-bottom: 0;
+	}
+
+	.iq-content-block .form-holder {
+		position: relative;
+	}
+
+	.iq-content-block input[type="number"],
+	.iq-content-block input[type="text"]:not(.index-main .eedsanalyze-content-block input[type="text"]) {
+		padding-bottom: 2px !important;
+		line-height: 0;
+	}
+
+	span.mfs-message {
+		font-size: 14px;
+	}
+	.section-header-iq h2 {
+		font-size: 22px;
+	}
+
+	.tutorial_videos img {
+		max-width: 50px;
+	}
+
+	.tutorial_videos .text_tutorial,
+	.form-holder input,
+	.form-holder .form-control:focus {
+		font-size: 14px;
+	}
+	.form-discription p {
+		font-size: 16px;
+	}
+	.iq-multistep-wizard {
+		padding: 20px;
+	}
+
+
+	.logo_mains {
+		max-height: 40px;
+	}
+
+	.iq-multistep-wizard .actions ul a,
+	.iq-multistep-wizard .actions ul button {
+		height: 45px;
+		font-size: 14px;
+		width: 150px;
+	}
+
+
+	.needsanalyze-image-block img {
+		max-height: 385px;
+		min-height: 385px;
+	}
+
+	.section-header-iq h3 {
+		font-size: 25px;
+	}
+
+
+
+	.draw-file button#sig-submitBtn,
+	.draw-file #sig-clearBtn {
+		font-size: 12px;
+	}
+
+	.logo_subtitles {
+		font-size: 14px;
+	}
+
+	.here_help_sec h3,
+	.form-discription h3 {
+		font-size: 20px;
+	}
+
+
+
+	img.custom-upload {
+		height: 20px;
+	}
+
+	.here_help_sec {
+		margin: 15px 0 0;
+	}
+
+	.iq-multistep-wizard .actions ul a,
+	.iq-multistep-wizard .actions ul button {
+		height: 40px;
+		font-size: 14px;
+		width: 140px;
+	}
+
+	.form-discription {
+		margin: 10px 0 0 0;
+	}
+
+	.form-group.day-to-day-expence {
+		margin-top: 10px;
+	}
+
+	#wizard-p-0 .form-group,
+	#wizard-p-1 .form-group,
+	#wizard-p-2 .form-group,
+	#wizard-p-3 .form-group,
+	#wizard-p-4 .form-group,
+	#wizard-p-5 .form-group,
+	#wizard-p-6 .form-group,
+	#wizard-p-7 .form-group,
+	#wizard-p-8 .form-group,
+	#wizard-p-9 .form-group {
+		margin-top: 10px;
+	}
+
+
+	.sin-img-div a {
+		width: 215px;
+		height: 40px;
+		display: flex;
+		align-items: center;
+	}
+	.input-name input[type="text"] {
+		height: 40px;
+		width: 215px;
+		margin-bottom: 10px;
+	}
+
+	/* .sin-img-div a .sin-img {
+		max-width: 130px;
+		object-fit: contain;
+		max-height: 40px;
+	} 
+	 */
+
+	.file_upload {
+		height: 40px;
+	}
+
+	#wizard-p-11 h3.result_titles {
+		margin: 0px 0 30px 0 !important;
+		top: 0px !important;
+	}
+
+	section.steps_div.steps_div_results .result-table-data {
+		margin-top: 25px;
+	}
+	a.btn.cstm_close {
+		height: 40px;
+		font-size: 14px;
+		width: 140px;
+	}	
+}
+
+
+
+@media screen and (max-width: 1280px) {
+	.radio.selection {
+		display: flex !important;
+		align-items: flex-start !important;
+	}
+
+	.radio-check .radio.selection input[type="radio"] {
+		min-width: 16px;
+		min-height: 16px;
+		max-width: 16px;
+	}
+
+	.iq-content-block .input-group.radio-check label {
+		font-size: 12px !important;
+		line-height: 20px !important;
+	}
+
+	.form-discription p {
+		font-size: 12px;
+		line-height: 18px;
+	}
+
+	.investment-horizon-box p {
+		font-size: 12px;
+		line-height: 18px;
+		
+	}
+	.scoring-text p {
+		font-size: 13px;
+		line-height: 18px;
+	}
+	.example-one-scoring {
+		margin-top: 20px;
+	}
+	span.mfs-message {
+		font-size: 12px;
+	}
+
+	.logo_subtitles {
+		font-size: 12px;
+	}
+
+	.section-logo-header {
+		padding: 0px 30px 10px 30px;
+	}
+
+	.logo_subtitles {
+		font-size: 12px;
+	}
+
+	.needsanalyze-image-block img {
+		max-height: 320px;
+		min-height: 320px;
+	}
+
+	.section-header-iq h3,
+	.here_help_sec h3,
+	.form-discription h3 {
+		font-size: 15px;
+
+	}
+
+	p.detail_sctdr a {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.form-group.radio-years label {
+		font-size: 12px;
+		line-height: 15px !important;
+	}
+
+	.draw-signature label,
+	.chose-signature label {
+		font-size: 10px;
+	}
+
+	.draw-signature input[type="radio"],
+	.chose-signature input[type="radio"] {
+		min-width: 16.5px;
+		min-height: 16.5px;
+	}
+
+	img.custom-upload {
+		height: 17px;
+	}
+
+	.form-discription h3 {
+		margin: 15px 0;
+	}
+
+	.form-discription {
+		margin: 15px 0 0 0;
+	}
+
+	#wizard-p-11 h3.result_titles {
+		margin: 0px 0 15px 0 !important;
+	}
+
+	.investment-table tbody td:first-child {
+		font-size: 13px;
+		padding: 14px 10px;
+	}
+
+	.investment-table thead th {
+		font-size: 13px;
+	}
+
+	.investment-table tbody td {
+		font-size: 13px;
+	}
+
+	section.steps_div.steps_div_results .result-table-data {
+		margin-top: 15px;
+	}
+
+}
+
+
+@media all and (max-width:1180px) {
+
+	.iq-multistep-wizard {
+		min-height: 400px;
+		max-height: 400px;
+	}
+
+	.section-content {
+		max-height: 250px;
+		min-height: 230px;
+	}
+
+	section.steps_div.steps_div_results .section-content {
+		max-height: 250px;
+		padding-bottom: 20px;
+	}
+
+	.steps_div {
+		min-height: 365px;
+		max-height: 365px;
+	}
+
+	.iq-image-block img {
+		max-height: 365px;
+
+	}
+
+	.iq-multistep-wizard {
+		padding: 15px;
+	}
+
+	.needsanalyze-image-block img {
+		max-height: 290px;
+		min-height: 290px;
+	}
+
+	.section-header-iq h2 {
+		font-size: 22px;
+		margin-bottom: 15px;
+	}
+
+	.needsanalyze-image-block img {
+		max-height: 290px;
+		min-height: 290px;
+	}
+
+	.form-discription {
+		margin: 10px 0 0 0;
+	}
+
+	hr.section-header-border {
+		margin: 10px 0px;
+	}
+
+	.form-group.radio-years {
+		margin: 8px 0 0 0;
+	}
+
+	/* .sin-img-div a .sin-img {
+    max-width: 80px;
+
+} */
+	.investment-table tbody td:first-child {
+		padding: 10px 10px;
+	}
+}
+
+@media screen and (max-width: 1100px) and (min-width:1025px) {
+	.iq-content-block.iq-content-block-main {
+		justify-content: flex-start;
+	}
+
+	.section-content.section-content-main {
+		max-height: 160px;
+		min-height: max-content;
+	}
+
+	.iq-content-block.iq-content-block-main hr.section-header-border {
+		width: 120px;
+		height: 2px;
+		background-color: #848484;
+		margin: 5px 0px;
+	}
+
+	.section-header-iq h4.sub-heading {
+		font-size: 14px;
+	}
+
+	.section-header-iq .section-main-title {
+		margin-bottom: 4px;
+		font-size: 20px;
+	}
+
+	.radio-check {
+		gap: 5px 0;
+	}
+
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+	html,
+	body,
+	main,
+	.site-content {
+		height: auto;
+	}
+
+	.site-content {
+		min-height: 100vh;
+	}
+
+
+	.iq-multistep-wizard {
+		height: auto;
+		min-height: auto;
+		max-height: max-content;
+	}
+
+	.section-content {
+		max-height: 300px;
+		min-height: 300px;
+		padding: 0 10px 20px 0px;
+	}
+
+	.steps_div {
+		min-height: auto;
+		max-height: max-content;
+	}
+}
+@media only screen and (max-width: 991px) {
+.col-lg-5.cstm_pad_right {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 15px;
+}
+}
+
+@media all and (max-width:900px) {
+	.signtaure-popup .modal-dialog {
+		max-width: 96%;
+		margin-left: auto;
+		margin-right: auto;
+		overflow: hidden;
+	}
+
+	.signtaure-popup .modal-content {
+
+		overflow: hidden;
+	}
+
+	.sign-type-area textarea {
+		min-height: 28px;
+		padding: 10px;
+		font-size: 26px;
+	}
+
+	.font-option-list {
+		width: 50%;
+	}
+
+	.signtaure-popup .font-option-block {
+		max-height: 200px;
+		overflow-y: auto;
+		overflow-x: hidden;
+	}
+
+}
+
+@media screen and (max-width: 767px) {
+
+	.section-content {
+		max-height: max-content;
+		min-height: max-content;
+		padding: 0 0px 20px;
+	}
+
+	.steps_div .row {
+		flex-direction: column-reverse;
+		gap: 20px;
+	}
+
+	.iq-content-block.iq-content-block-main {
+		padding: 0;
+	}
+
+	.needsanalyze-image-block {
+		padding-left: 0;
+	}
+
+	.needsanalyze-image-block img {
+		max-height: max-content;
+		min-height: auto;
+		height: 320px;
+	}
+
+	.tutorial_videos {
+		margin-left: 0;
+	}
+
+	.iq-multistep-wizard .actions ul {
+		justify-content: flex-start;
+
+
+	}
+
+	.iq-multistep-wizard .actions ul li {
+		width: 50%;
+	}
+
+	.iq-multistep-wizard .actions ul a,
+	.iq-multistep-wizard .actions ul button {
+		width: 100%;
+	}
+
+	.iq-multistep-wizard {
+		padding: 20px;
+	}
+
+	.site-content {
+		padding: 40px 20px;
+		min-height: 100vh;
+	}
+
+	.radio-check .radio.selection {
+		gap: 5px;
+	}
+
+	.radio-check .radio.selection input[type="radio"] {
+		width: 14px;
+		height: 14px;
+		margin-top: 2px;
+	}
+
+	.form-discription h3 {
+		font-size: 16px;
+	}
+
+	.here_help_sec h3 {
+		font-size: 18px;
+	}
+
+	.section-header-iq h3 {
+		font-size: 20px;
+	}
+
+	.tutorial_videos img {
+		height: auto;
+	}
+
+	.singnature-btns input[type="file"] {
+		width: 100%;
+	}
+
+	.font-option-list span {
+		font-size: 21px;
+	}
+
+	.modal_headers {
+		right: 0;
+	}
+
+	#wizard-p-11 h3.result_titles {
+		font-size: 14px;
+	}
+
+	.form-group.radio-years {
+		padding: 0px 0px 0px 2px;
+	}
+
+	.site-content-iq {
+		padding: 40px 20px;
+		min-height: 100vh;
+	}
+
+	.section-questionnaire-scoring {
+		scrollbar-width: thin;
+	}
+
+	.investment-table tbody td:first-child {
+		min-width: 100px;
+	}
+
+	div#sound-like-text {
+		padding: 0;
+	}
+	.draw-signature label, .chose-signature label {
+		font-size: 12px;
+	}
+	.row.cstm_innerRow3, .row.cstm_innerRow2, .row.cstm_innerRow {
+		flex-direction: row-reverse;
+		gap: 0;
+	}
+	img.charts_statemnt_port {
+		max-width: 520px;
+		height: inherit;
+	}
+}
+
+@media all and (max-width:575px) {
+	.iq-multistep-wizards{
+		padding: 20px;
+	}
+	.investment-horizon-box p {
+		margin-bottom: 10px;
+	}
+
+	input#upload_signature {
+		min-width: 200px;
+		width: 260px;
+	}
+
+	.section-header-iq h2 {
+		font-size: 20px;
+	}
+
+	.section-header-iq h4.sub-heading {
+		font-size: 15px;
+	}
+
+	.form-group.radio-years {
+		margin: 10px 0 0 0;
+	}
+	.section-logo-header {
+		text-align: center;
+	}
+}
+
+
+@media all and (max-width:374px){
+	.draw-signature label, .chose-signature label {
+		font-size: 10px;
+	}
+}
